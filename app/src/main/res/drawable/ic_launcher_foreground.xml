@@ -1,0 +1,27 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Rising Sun Arc (Heritage) -->
+    <path
+        android:fillColor="#E9C46A"
+        android:pathData="M34,68 C34,48 42,40 54,40 C66,40 74,48 74,68 L68,68 C68,52 62,46 54,46 C46,46 40,52 40,68 Z" />
+    
+    <!-- Central Geometric Diamond (SME Weaver Motif) -->
+    <path
+        android:fillColor="#D76F30"
+        android:pathData="M54,28 L72,50 L54,72 L36,50 Z" />
+        
+    <!-- Core Diamond Spotlight -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,38 L62,50 L54,62 L46,50 Z" />
+
+    <!-- River Base / Shipping Channel -->
+    <path
+        android:fillColor="#2A9D8F"
+        android:pathData="M24,76 L84,76 L84,80 L24,80 Z" />
+        
+</vector>

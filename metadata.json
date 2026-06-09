@@ -1,0 +1,8 @@
+{
+  "name": "ValueAfrica",
+  "description": "ValueAfrica Innovation Hub connects African creators and SMEs to verified global e-commerce marketplace structures and export pathways.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
